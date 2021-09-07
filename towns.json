@@ -1,0 +1,9661 @@
+[{
+  "_id": {
+    "$oid": "610160e1db455b0387385c09"
+  },
+  "name": "Aladağ",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0a"
+  },
+  "name": "Ceyhan",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0b"
+  },
+  "name": "Çukurova",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0c"
+  },
+  "name": "Feke",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0d"
+  },
+  "name": "İmamoğlu",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0e"
+  },
+  "name": "Karaisalı",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c0f"
+  },
+  "name": "Karataş",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c10"
+  },
+  "name": "Kozan",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c11"
+  },
+  "name": "Pozantı",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c12"
+  },
+  "name": "Saimbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c13"
+  },
+  "name": "Sarıçam",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c14"
+  },
+  "name": "Seyhan",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c15"
+  },
+  "name": "Tufanbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c16"
+  },
+  "name": "Yumurtalık",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c17"
+  },
+  "name": "Yüreğir",
+  "city": {
+    "$oid": "61015b44db455b0387385428"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c18"
+  },
+  "name": "Adıyaman Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c19"
+  },
+  "name": "Besni",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1a"
+  },
+  "name": "Çelikhan",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1b"
+  },
+  "name": "Gerger",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1c"
+  },
+  "name": "Gölbaşı / Adıyaman",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1d"
+  },
+  "name": "Kahta",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1e"
+  },
+  "name": "Samsat",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c1f"
+  },
+  "name": "Sincik",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c20"
+  },
+  "name": "Tut",
+  "city": {
+    "$oid": "61015b44db455b0387385429"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c21"
+  },
+  "name": "Afyonkarahisar Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c22"
+  },
+  "name": "Başmakçı",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c23"
+  },
+  "name": "Bayat / Afyonkarahisar",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c24"
+  },
+  "name": "Bolvadin",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c25"
+  },
+  "name": "Çay",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c26"
+  },
+  "name": "Çobanlar",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c27"
+  },
+  "name": "Dazkırı",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c28"
+  },
+  "name": "Dinar",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c29"
+  },
+  "name": "Emirdağ",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2a"
+  },
+  "name": "Evciler",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2b"
+  },
+  "name": "Hocalar",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2c"
+  },
+  "name": "İhsaniye",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2d"
+  },
+  "name": "İscehisar",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2e"
+  },
+  "name": "Kızılören",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c2f"
+  },
+  "name": "Sandıklı",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c30"
+  },
+  "name": "Sinanpaşa",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c31"
+  },
+  "name": "Sultandağı",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c32"
+  },
+  "name": "Şuhut",
+  "city": {
+    "$oid": "61015b44db455b038738542a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c33"
+  },
+  "name": "Ağrı Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c34"
+  },
+  "name": "Diyadin",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c35"
+  },
+  "name": "Doğubayazıt",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c36"
+  },
+  "name": "Eleşkirt",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c37"
+  },
+  "name": "Hamur",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c38"
+  },
+  "name": "Patnos",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c39"
+  },
+  "name": "Taşlıçay",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3a"
+  },
+  "name": "Tutak",
+  "city": {
+    "$oid": "61015b44db455b038738542b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3b"
+  },
+  "name": "Amasya Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3c"
+  },
+  "name": "Göynücek",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3d"
+  },
+  "name": "Gümüşhacıköy",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3e"
+  },
+  "name": "Hamamözü",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c3f"
+  },
+  "name": "Merzifon",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c40"
+  },
+  "name": "Suluova",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c41"
+  },
+  "name": "Taşova",
+  "city": {
+    "$oid": "61015b44db455b038738542c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c42"
+  },
+  "name": "Akyurt",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c43"
+  },
+  "name": "Altındağ",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c44"
+  },
+  "name": "Ayaş",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c45"
+  },
+  "name": "Bala",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c46"
+  },
+  "name": "Beypazarı",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c47"
+  },
+  "name": "Çamlıdere",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c48"
+  },
+  "name": "Çankaya",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c49"
+  },
+  "name": "Çubuk",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4a"
+  },
+  "name": "Elmadağ",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4b"
+  },
+  "name": "Etimesgut",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4c"
+  },
+  "name": "Evren",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4d"
+  },
+  "name": "Gölbaşı / Ankara",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4e"
+  },
+  "name": "Güdül",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c4f"
+  },
+  "name": "Haymana",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c50"
+  },
+  "name": "Kalecik",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c51"
+  },
+  "name": "Kazan",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c52"
+  },
+  "name": "Keçiören",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c53"
+  },
+  "name": "Kızılcahamam",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c54"
+  },
+  "name": "Mamak",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c55"
+  },
+  "name": "Nallıhan",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c56"
+  },
+  "name": "Polatlı",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c57"
+  },
+  "name": "Pursaklar",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c58"
+  },
+  "name": "Sincan",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c59"
+  },
+  "name": "Şereflikoçhisar",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5a"
+  },
+  "name": "Yenimahalle",
+  "city": {
+    "$oid": "61015b44db455b038738542d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5b"
+  },
+  "name": "Akseki",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5c"
+  },
+  "name": "Aksu / Antalya",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5d"
+  },
+  "name": "Alanya",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5e"
+  },
+  "name": "Demre",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c5f"
+  },
+  "name": "Döşemealtı",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c60"
+  },
+  "name": "Elmalı",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c61"
+  },
+  "name": "Finike",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c62"
+  },
+  "name": "Gazipaşa",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c63"
+  },
+  "name": "Gündoğmuş",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c64"
+  },
+  "name": "İbradı",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c65"
+  },
+  "name": "Kaş",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c66"
+  },
+  "name": "Kemer / Antalya",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c67"
+  },
+  "name": "Kepez",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c68"
+  },
+  "name": "Konyaaltı",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c69"
+  },
+  "name": "Korkuteli",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6a"
+  },
+  "name": "Kumluca",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6b"
+  },
+  "name": "Manavgat",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6c"
+  },
+  "name": "Muratpaşa",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6d"
+  },
+  "name": "Serik",
+  "city": {
+    "$oid": "61015b44db455b038738542e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6e"
+  },
+  "name": "Ardanuç",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c6f"
+  },
+  "name": "Arhavi",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c70"
+  },
+  "name": "Artvin Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c71"
+  },
+  "name": "Borçka",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c72"
+  },
+  "name": "Hopa",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c73"
+  },
+  "name": "Murgul",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c74"
+  },
+  "name": "Şavşat",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c75"
+  },
+  "name": "Yusufeli",
+  "city": {
+    "$oid": "61015b44db455b038738542f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c76"
+  },
+  "name": "Aydın Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c77"
+  },
+  "name": "Bozdoğan",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c78"
+  },
+  "name": "Buharkent",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c79"
+  },
+  "name": "Çine",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7a"
+  },
+  "name": "Didim",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7b"
+  },
+  "name": "Germencik",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7c"
+  },
+  "name": "İncirliova",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7d"
+  },
+  "name": "Karacasu",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7e"
+  },
+  "name": "Karpuzlu",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c7f"
+  },
+  "name": "Koçarlı",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c80"
+  },
+  "name": "Köşk",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c81"
+  },
+  "name": "Kuşadası",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c82"
+  },
+  "name": "Kuyucak",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c83"
+  },
+  "name": "Nazilli",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c84"
+  },
+  "name": "Söke",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c85"
+  },
+  "name": "Sultanhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c86"
+  },
+  "name": "Yenipazar / Aydın",
+  "city": {
+    "$oid": "61015b44db455b0387385430"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c87"
+  },
+  "name": "Ayvalık",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c88"
+  },
+  "name": "Balıkesir Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c89"
+  },
+  "name": "Balya",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8a"
+  },
+  "name": "Bandırma",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8b"
+  },
+  "name": "Bigadiç",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8c"
+  },
+  "name": "Burhaniye",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8d"
+  },
+  "name": "Dursunbey",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8e"
+  },
+  "name": "Edremit / Balıkesir",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c8f"
+  },
+  "name": "Erdek",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c90"
+  },
+  "name": "Gömeç",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c91"
+  },
+  "name": "Gönen / Balıkesir",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c92"
+  },
+  "name": "Havran",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c93"
+  },
+  "name": "İvrindi",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c94"
+  },
+  "name": "Kepsut",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c95"
+  },
+  "name": "Manyas",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c96"
+  },
+  "name": "Marmara",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c97"
+  },
+  "name": "Savaştepe",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c98"
+  },
+  "name": "Sındırgı",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c99"
+  },
+  "name": "Susurluk",
+  "city": {
+    "$oid": "61015b44db455b0387385431"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9a"
+  },
+  "name": "Bilecik Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9b"
+  },
+  "name": "Bozüyük",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9c"
+  },
+  "name": "Gölpazarı",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9d"
+  },
+  "name": "İnhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9e"
+  },
+  "name": "Osmaneli",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385c9f"
+  },
+  "name": "Pazaryeri",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca0"
+  },
+  "name": "Söğüt",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca1"
+  },
+  "name": "Yenipazar / Bilecik",
+  "city": {
+    "$oid": "61015b44db455b0387385432"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca2"
+  },
+  "name": "Adaklı",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca3"
+  },
+  "name": "Bingöl Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca4"
+  },
+  "name": "Genç",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca5"
+  },
+  "name": "Karlıova",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca6"
+  },
+  "name": "Kiğı",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca7"
+  },
+  "name": "Solhan",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca8"
+  },
+  "name": "Yayladere",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ca9"
+  },
+  "name": "Yedisu",
+  "city": {
+    "$oid": "61015b44db455b0387385433"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385caa"
+  },
+  "name": "Adilcevaz",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cab"
+  },
+  "name": "Ahlat",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cac"
+  },
+  "name": "Bitlis Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cad"
+  },
+  "name": "Güroymak",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cae"
+  },
+  "name": "Hizan",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385caf"
+  },
+  "name": "Mutki",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb0"
+  },
+  "name": "Tatvan",
+  "city": {
+    "$oid": "61015b44db455b0387385434"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb1"
+  },
+  "name": "Bolu Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb2"
+  },
+  "name": "Dörtdivan",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb3"
+  },
+  "name": "Gerede",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb4"
+  },
+  "name": "Göynük",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb5"
+  },
+  "name": "Kıbrıscık",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb6"
+  },
+  "name": "Mengen",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb7"
+  },
+  "name": "Mudurnu",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb8"
+  },
+  "name": "Seben",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cb9"
+  },
+  "name": "Yeniçağa",
+  "city": {
+    "$oid": "61015b44db455b0387385435"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cba"
+  },
+  "name": "Ağlasun",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cbb"
+  },
+  "name": "Altınyayla / Burdur",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cbc"
+  },
+  "name": "Bucak",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cbd"
+  },
+  "name": "Burdur Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cbe"
+  },
+  "name": "Çavdır",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cbf"
+  },
+  "name": "Çeltikçi",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc0"
+  },
+  "name": "Gölhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc1"
+  },
+  "name": "Karamanlı",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc2"
+  },
+  "name": "Kemer / Burdur",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc3"
+  },
+  "name": "Tefenni",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc4"
+  },
+  "name": "Yeşilova",
+  "city": {
+    "$oid": "61015b44db455b0387385436"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc5"
+  },
+  "name": "Büyükorhan",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc6"
+  },
+  "name": "Gemlik",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc7"
+  },
+  "name": "Gürsu",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc8"
+  },
+  "name": "Harmancık",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cc9"
+  },
+  "name": "İnegöl",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cca"
+  },
+  "name": "İznik",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ccb"
+  },
+  "name": "Karacabey",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ccc"
+  },
+  "name": "Keles",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ccd"
+  },
+  "name": "Kestel",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cce"
+  },
+  "name": "Mudanya",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ccf"
+  },
+  "name": "Mustafakemalpaşa",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd0"
+  },
+  "name": "Nilüfer",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd1"
+  },
+  "name": "Orhaneli",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd2"
+  },
+  "name": "Orhangazi",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd3"
+  },
+  "name": "Osmangazi",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd4"
+  },
+  "name": "Yenişehir / Bursa",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd5"
+  },
+  "name": "Yıldırım",
+  "city": {
+    "$oid": "61015b44db455b0387385437"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd6"
+  },
+  "name": "Ayvacık / Çanakkale",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd7"
+  },
+  "name": "Bayramiç",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd8"
+  },
+  "name": "Biga",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cd9"
+  },
+  "name": "Bozcaada",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cda"
+  },
+  "name": "Çan",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cdb"
+  },
+  "name": "Çanakkale Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cdc"
+  },
+  "name": "Eceabat",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cdd"
+  },
+  "name": "Ezine",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cde"
+  },
+  "name": "Gelibolu",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cdf"
+  },
+  "name": "Gökçeada",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce0"
+  },
+  "name": "Lapseki",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce1"
+  },
+  "name": "Yenice / Çanakkale",
+  "city": {
+    "$oid": "61015b44db455b0387385438"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce2"
+  },
+  "name": "Atkaracalar",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce3"
+  },
+  "name": "Bayramören",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce4"
+  },
+  "name": "Çankırı Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce5"
+  },
+  "name": "Çerkeş",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce6"
+  },
+  "name": "Eldivan",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce7"
+  },
+  "name": "Ilgaz",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce8"
+  },
+  "name": "Kızılırmak",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ce9"
+  },
+  "name": "Korgun",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cea"
+  },
+  "name": "Kurşunlu",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ceb"
+  },
+  "name": "Orta",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cec"
+  },
+  "name": "Şabanözü",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ced"
+  },
+  "name": "Yapraklı",
+  "city": {
+    "$oid": "61015b44db455b0387385439"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cee"
+  },
+  "name": "Alaca",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cef"
+  },
+  "name": "Bayat / Çorum",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf0"
+  },
+  "name": "Boğazkale",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf1"
+  },
+  "name": "Çorum Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf2"
+  },
+  "name": "Dodurga",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf3"
+  },
+  "name": "İskilip",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf4"
+  },
+  "name": "Kargı",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf5"
+  },
+  "name": "Laçin",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf6"
+  },
+  "name": "Mecitözü",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf7"
+  },
+  "name": "Oğuzlar",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf8"
+  },
+  "name": "Ortaköy / Çorum",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cf9"
+  },
+  "name": "Osmancık",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cfa"
+  },
+  "name": "Sungurlu",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cfb"
+  },
+  "name": "Uğurludağ",
+  "city": {
+    "$oid": "61015b44db455b038738543a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cfc"
+  },
+  "name": "Acıpayam",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cfd"
+  },
+  "name": "Akköy",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cfe"
+  },
+  "name": "Babadağ",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385cff"
+  },
+  "name": "Baklan",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d00"
+  },
+  "name": "Bekilli",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d01"
+  },
+  "name": "Beyağaç",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d02"
+  },
+  "name": "Bozkurt / Denizli",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d03"
+  },
+  "name": "Buldan",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d04"
+  },
+  "name": "Çal",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d05"
+  },
+  "name": "Çameli",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d06"
+  },
+  "name": "Çardak",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d07"
+  },
+  "name": "Çivril",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d08"
+  },
+  "name": "Denizli Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d09"
+  },
+  "name": "Güney",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0a"
+  },
+  "name": "Honaz",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0b"
+  },
+  "name": "Kale / Denizli",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0c"
+  },
+  "name": "Sarayköy",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0d"
+  },
+  "name": "Serinhisar",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0e"
+  },
+  "name": "Tavas",
+  "city": {
+    "$oid": "61015b44db455b038738543b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d0f"
+  },
+  "name": "Bağlar",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d10"
+  },
+  "name": "Bismil",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d11"
+  },
+  "name": "Çermik",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d12"
+  },
+  "name": "Çınar",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d13"
+  },
+  "name": "Çüngüş",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d14"
+  },
+  "name": "Dicle",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d15"
+  },
+  "name": "Eğil",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d16"
+  },
+  "name": "Ergani",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d17"
+  },
+  "name": "Hani",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d18"
+  },
+  "name": "Hazro",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d19"
+  },
+  "name": "Kayapınar",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1a"
+  },
+  "name": "Kocaköy",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1b"
+  },
+  "name": "Kulp",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1c"
+  },
+  "name": "Lice",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1d"
+  },
+  "name": "Silvan",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1e"
+  },
+  "name": "Sur",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d1f"
+  },
+  "name": "Yenişehir / Diyarbakır",
+  "city": {
+    "$oid": "61015b44db455b038738543c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d20"
+  },
+  "name": "Edirne Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d21"
+  },
+  "name": "Enez",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d22"
+  },
+  "name": "Havsa",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d23"
+  },
+  "name": "İpsala",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d24"
+  },
+  "name": "Keşan",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d25"
+  },
+  "name": "Lalapaşa",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d26"
+  },
+  "name": "Meriç",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d27"
+  },
+  "name": "Süloğlu",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d28"
+  },
+  "name": "Uzunköprü",
+  "city": {
+    "$oid": "61015b44db455b038738543d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d29"
+  },
+  "name": "Ağın",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2a"
+  },
+  "name": "Alacakaya",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2b"
+  },
+  "name": "Arıcak",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2c"
+  },
+  "name": "Baskil",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2d"
+  },
+  "name": "Elazığ Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2e"
+  },
+  "name": "Karakoçan",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d2f"
+  },
+  "name": "Keban",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d30"
+  },
+  "name": "Kovancılar",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d31"
+  },
+  "name": "Maden",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d32"
+  },
+  "name": "Palu",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d33"
+  },
+  "name": "Sivrice",
+  "city": {
+    "$oid": "61015b44db455b038738543e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d34"
+  },
+  "name": "Çayırlı",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d35"
+  },
+  "name": "Erzincan Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d36"
+  },
+  "name": "İliç",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d37"
+  },
+  "name": "Kemah",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d38"
+  },
+  "name": "Kemaliye",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d39"
+  },
+  "name": "Otlukbeli",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3a"
+  },
+  "name": "Refahiye",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3b"
+  },
+  "name": "Tercan",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3c"
+  },
+  "name": "Üzümlü",
+  "city": {
+    "$oid": "61015b44db455b038738543f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3d"
+  },
+  "name": "Aşkale",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3e"
+  },
+  "name": "Aziziye",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d3f"
+  },
+  "name": "Çat",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d40"
+  },
+  "name": "Hınıs",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d41"
+  },
+  "name": "Horasan",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d42"
+  },
+  "name": "İspir",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d43"
+  },
+  "name": "Karaçoban",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d44"
+  },
+  "name": "Karayazı",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d45"
+  },
+  "name": "Köprüköy",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d46"
+  },
+  "name": "Narman",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d47"
+  },
+  "name": "Oltu",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d48"
+  },
+  "name": "Olur",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d49"
+  },
+  "name": "Palandöken",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4a"
+  },
+  "name": "Pasinler",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4b"
+  },
+  "name": "Pazaryolu",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4c"
+  },
+  "name": "Şenkaya",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4d"
+  },
+  "name": "Tekman",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4e"
+  },
+  "name": "Tortum",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d4f"
+  },
+  "name": "Uzundere",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d50"
+  },
+  "name": "Yakutiye",
+  "city": {
+    "$oid": "61015b44db455b0387385440"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d51"
+  },
+  "name": "Alpu",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d52"
+  },
+  "name": "Beylikova",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d53"
+  },
+  "name": "Çifteler",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d54"
+  },
+  "name": "Günyüzü",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d55"
+  },
+  "name": "Han",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d56"
+  },
+  "name": "İnönü",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d57"
+  },
+  "name": "Mahmudiye",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d58"
+  },
+  "name": "Mihalgazi",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d59"
+  },
+  "name": "Mihalıççık",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5a"
+  },
+  "name": "Odunpazarı",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5b"
+  },
+  "name": "Sarıcakaya",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5c"
+  },
+  "name": "Seyitgazi",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5d"
+  },
+  "name": "Sivrihisar",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5e"
+  },
+  "name": "Tepebaşı",
+  "city": {
+    "$oid": "61015b44db455b0387385441"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d5f"
+  },
+  "name": "Araban",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d60"
+  },
+  "name": "İslahiye",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d61"
+  },
+  "name": "Karkamış",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d62"
+  },
+  "name": "Nizip",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d63"
+  },
+  "name": "Nurdağı",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d64"
+  },
+  "name": "Oğuzeli",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d65"
+  },
+  "name": "Şahinbey",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d66"
+  },
+  "name": "Şehitkamil",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d67"
+  },
+  "name": "Yavuzeli",
+  "city": {
+    "$oid": "61015b44db455b0387385442"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d68"
+  },
+  "name": "Alucra",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d69"
+  },
+  "name": "Bulancak",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6a"
+  },
+  "name": "Çamoluk",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6b"
+  },
+  "name": "Çanakçı",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6c"
+  },
+  "name": "Dereli",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6d"
+  },
+  "name": "Doğankent",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6e"
+  },
+  "name": "Espiye",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d6f"
+  },
+  "name": "Eynesil",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d70"
+  },
+  "name": "Giresun Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d71"
+  },
+  "name": "Görele",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d72"
+  },
+  "name": "Güce",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d73"
+  },
+  "name": "Keşap",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d74"
+  },
+  "name": "Piraziz",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d75"
+  },
+  "name": "Şebinkarahisar",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d76"
+  },
+  "name": "Tirebolu",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d77"
+  },
+  "name": "Yağlıdere",
+  "city": {
+    "$oid": "61015b44db455b0387385443"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d78"
+  },
+  "name": "Gümüşhane Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d79"
+  },
+  "name": "Kelkit",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7a"
+  },
+  "name": "Köse",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7b"
+  },
+  "name": "Kürtün",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7c"
+  },
+  "name": "Şiran",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7d"
+  },
+  "name": "Torul",
+  "city": {
+    "$oid": "61015b44db455b0387385444"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7e"
+  },
+  "name": "Çukurca",
+  "city": {
+    "$oid": "61015b44db455b0387385445"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d7f"
+  },
+  "name": "Hakkari Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385445"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d80"
+  },
+  "name": "Şemdinli",
+  "city": {
+    "$oid": "61015b44db455b0387385445"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d81"
+  },
+  "name": "Yüksekova",
+  "city": {
+    "$oid": "61015b44db455b0387385445"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d82"
+  },
+  "name": "Altınözü",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d83"
+  },
+  "name": "Belen",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d84"
+  },
+  "name": "Dörtyol",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d85"
+  },
+  "name": "Erzin",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d86"
+  },
+  "name": "Hassa",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d87"
+  },
+  "name": "Hatay Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d88"
+  },
+  "name": "İskenderun",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d89"
+  },
+  "name": "Kırıkhan",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8a"
+  },
+  "name": "Kumlu",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8b"
+  },
+  "name": "Reyhanlı",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8c"
+  },
+  "name": "Samandağ",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8d"
+  },
+  "name": "Yayladağı",
+  "city": {
+    "$oid": "61015b44db455b0387385446"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8e"
+  },
+  "name": "Aksu / Isparta",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d8f"
+  },
+  "name": "Atabey",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d90"
+  },
+  "name": "Eğirdir",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d91"
+  },
+  "name": "Gelendost",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d92"
+  },
+  "name": "Gönen / Isparta",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d93"
+  },
+  "name": "Isparta Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d94"
+  },
+  "name": "Keçiborlu",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d95"
+  },
+  "name": "Senirkent",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d96"
+  },
+  "name": "Sütçüler",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d97"
+  },
+  "name": "Şarkikaraağaç",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d98"
+  },
+  "name": "Uluborlu",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d99"
+  },
+  "name": "Yalvaç",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9a"
+  },
+  "name": "Yenişarbademli",
+  "city": {
+    "$oid": "61015b44db455b0387385447"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9b"
+  },
+  "name": "Akdeniz",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9c"
+  },
+  "name": "Anamur",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9d"
+  },
+  "name": "Aydıncık / Mersin",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9e"
+  },
+  "name": "Bozyazı",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385d9f"
+  },
+  "name": "Çamlıyayla",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da0"
+  },
+  "name": "Erdemli",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da1"
+  },
+  "name": "Gülnar",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da2"
+  },
+  "name": "Mezitli",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da3"
+  },
+  "name": "Mut",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da4"
+  },
+  "name": "Silifke",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da5"
+  },
+  "name": "Tarsus",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da6"
+  },
+  "name": "Toroslar",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da7"
+  },
+  "name": "Yenişehir / Mersin",
+  "city": {
+    "$oid": "61015b44db455b0387385448"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da8"
+  },
+  "name": "Adalar",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385da9"
+  },
+  "name": "Arnavutköy",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385daa"
+  },
+  "name": "Ataşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dab"
+  },
+  "name": "Avcılar",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dac"
+  },
+  "name": "Bağcılar",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dad"
+  },
+  "name": "Bahçelievler",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dae"
+  },
+  "name": "Bakırköy",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385daf"
+  },
+  "name": "Başakşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db0"
+  },
+  "name": "Bayrampaşa",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db1"
+  },
+  "name": "Beşiktaş",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db2"
+  },
+  "name": "Beykoz",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db3"
+  },
+  "name": "Beylikdüzü",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db4"
+  },
+  "name": "Beyoğlu",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db5"
+  },
+  "name": "Büyükçekmece",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db6"
+  },
+  "name": "Çatalca",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db7"
+  },
+  "name": "Çekmeköy",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db8"
+  },
+  "name": "Esenler",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385db9"
+  },
+  "name": "Esenyurt",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dba"
+  },
+  "name": "EyüpSultan",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dbb"
+  },
+  "name": "Fatih",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dbc"
+  },
+  "name": "Gaziosmanpaşa",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dbd"
+  },
+  "name": "Güngören",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dbe"
+  },
+  "name": "Kadıköy",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dbf"
+  },
+  "name": "Kağıthane",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc0"
+  },
+  "name": "Kartal",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc1"
+  },
+  "name": "Küçükçekmece",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc2"
+  },
+  "name": "Maltepe",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc3"
+  },
+  "name": "Pendik",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc4"
+  },
+  "name": "Sancaktepe",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc5"
+  },
+  "name": "Sarıyer",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc6"
+  },
+  "name": "Silivri",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc7"
+  },
+  "name": "Sultanbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc8"
+  },
+  "name": "Sultangazi",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dc9"
+  },
+  "name": "Şile",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dca"
+  },
+  "name": "Şişli",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dcb"
+  },
+  "name": "Tuzla",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dcc"
+  },
+  "name": "Ümraniye",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dcd"
+  },
+  "name": "Üsküdar",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dce"
+  },
+  "name": "Zeytinburnu",
+  "city": {
+    "$oid": "61015b44db455b0387385449"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dcf"
+  },
+  "name": "Aliağa",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd0"
+  },
+  "name": "Balçova",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd1"
+  },
+  "name": "Bayındır",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd2"
+  },
+  "name": "Bayraklı",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd3"
+  },
+  "name": "Bergama",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd4"
+  },
+  "name": "Beydağ",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd5"
+  },
+  "name": "Bornova",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd6"
+  },
+  "name": "Buca",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd7"
+  },
+  "name": "Çeşme",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd8"
+  },
+  "name": "Çiğli",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dd9"
+  },
+  "name": "Dikili",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dda"
+  },
+  "name": "Foça",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ddb"
+  },
+  "name": "Gaziemir",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ddc"
+  },
+  "name": "Güzelbahçe",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ddd"
+  },
+  "name": "Karabağlar",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dde"
+  },
+  "name": "Karaburun",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ddf"
+  },
+  "name": "Karşıyaka",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de0"
+  },
+  "name": "Kemalpaşa",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de1"
+  },
+  "name": "Kınık",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de2"
+  },
+  "name": "Kiraz",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de3"
+  },
+  "name": "Konak",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de4"
+  },
+  "name": "Menderes",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de5"
+  },
+  "name": "Menemen",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de6"
+  },
+  "name": "Narlıdere",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de7"
+  },
+  "name": "Ödemiş",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de8"
+  },
+  "name": "Seferihisar",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385de9"
+  },
+  "name": "Selçuk",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dea"
+  },
+  "name": "Tire",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385deb"
+  },
+  "name": "Torbalı",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dec"
+  },
+  "name": "Urla",
+  "city": {
+    "$oid": "61015b44db455b038738544a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ded"
+  },
+  "name": "Akyaka",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dee"
+  },
+  "name": "Arpaçay",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385def"
+  },
+  "name": "Digor",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df0"
+  },
+  "name": "Kağızman",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df1"
+  },
+  "name": "Kars Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df2"
+  },
+  "name": "Sarıkamış",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df3"
+  },
+  "name": "Selim",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df4"
+  },
+  "name": "Susuz",
+  "city": {
+    "$oid": "61015b44db455b038738544b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df5"
+  },
+  "name": "Abana",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df6"
+  },
+  "name": "Ağlı",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df7"
+  },
+  "name": "Araç",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df8"
+  },
+  "name": "Azdavay",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385df9"
+  },
+  "name": "Bozkurt / Kastamonu",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dfa"
+  },
+  "name": "Cide",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dfb"
+  },
+  "name": "Çatalzeytin",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dfc"
+  },
+  "name": "Daday",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dfd"
+  },
+  "name": "Devrekani",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dfe"
+  },
+  "name": "Doğanyurt",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385dff"
+  },
+  "name": "Hanönü",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e00"
+  },
+  "name": "İhsangazi",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e01"
+  },
+  "name": "İnebolu",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e02"
+  },
+  "name": "Kastamonu Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e03"
+  },
+  "name": "Küre",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e04"
+  },
+  "name": "Pınarbaşı / Kastamonu",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e05"
+  },
+  "name": "Seydiler",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e06"
+  },
+  "name": "Şenpazar",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e07"
+  },
+  "name": "Taşköprü",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e08"
+  },
+  "name": "Tosya",
+  "city": {
+    "$oid": "61015b44db455b038738544c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e09"
+  },
+  "name": "Akkışla",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0a"
+  },
+  "name": "Bünyan",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0b"
+  },
+  "name": "Develi",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0c"
+  },
+  "name": "Felahiye",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0d"
+  },
+  "name": "Hacılar",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0e"
+  },
+  "name": "İncesu",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e0f"
+  },
+  "name": "Kocasinan",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e10"
+  },
+  "name": "Melikgazi",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e11"
+  },
+  "name": "Özvatan",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e12"
+  },
+  "name": "Pınarbaşı / Kayseri",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e13"
+  },
+  "name": "Sarıoğlan",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e14"
+  },
+  "name": "Sarız",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e15"
+  },
+  "name": "Talas",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e16"
+  },
+  "name": "Tomarza",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e17"
+  },
+  "name": "Yahyalı",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e18"
+  },
+  "name": "Yeşilhisar",
+  "city": {
+    "$oid": "61015b44db455b038738544d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e19"
+  },
+  "name": "Babaeski",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1a"
+  },
+  "name": "Demirköy",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1b"
+  },
+  "name": "Kırklareli Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1c"
+  },
+  "name": "Kofçaz",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1d"
+  },
+  "name": "Lüleburgaz",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1e"
+  },
+  "name": "Pehlivanköy",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e1f"
+  },
+  "name": "Pınarhisar",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e20"
+  },
+  "name": "Vize",
+  "city": {
+    "$oid": "61015b44db455b038738544e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e21"
+  },
+  "name": "Akçakent",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e22"
+  },
+  "name": "Akpınar",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e23"
+  },
+  "name": "Boztepe",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e24"
+  },
+  "name": "Çiçekdağı",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e25"
+  },
+  "name": "Kaman",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e26"
+  },
+  "name": "Kırşehir Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e27"
+  },
+  "name": "Mucur",
+  "city": {
+    "$oid": "61015b44db455b038738544f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e28"
+  },
+  "name": "Başiskele",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e29"
+  },
+  "name": "Çayırova",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2a"
+  },
+  "name": "Darıca",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2b"
+  },
+  "name": "Derince",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2c"
+  },
+  "name": "Dilovası",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2d"
+  },
+  "name": "Gebze",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2e"
+  },
+  "name": "Gölcük",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e2f"
+  },
+  "name": "İzmit",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e30"
+  },
+  "name": "Kandıra",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e31"
+  },
+  "name": "Karamürsel",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e32"
+  },
+  "name": "Kartepe",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e33"
+  },
+  "name": "Körfez",
+  "city": {
+    "$oid": "61015b44db455b0387385450"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e34"
+  },
+  "name": "Ahırlı",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e35"
+  },
+  "name": "Akören",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e36"
+  },
+  "name": "Akşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e37"
+  },
+  "name": "Altınekin",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e38"
+  },
+  "name": "Beyşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e39"
+  },
+  "name": "Bozkır",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3a"
+  },
+  "name": "Cihanbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3b"
+  },
+  "name": "Çeltik",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3c"
+  },
+  "name": "Çumra",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3d"
+  },
+  "name": "Derbent",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3e"
+  },
+  "name": "Derebucak",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e3f"
+  },
+  "name": "Doğanhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e40"
+  },
+  "name": "Emirgazi",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e41"
+  },
+  "name": "Ereğli / Konya",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e42"
+  },
+  "name": "Güneysınır",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e43"
+  },
+  "name": "Hadim",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e44"
+  },
+  "name": "Halkapınar",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e45"
+  },
+  "name": "Hüyük",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e46"
+  },
+  "name": "Ilgın",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e47"
+  },
+  "name": "Kadınhanı",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e48"
+  },
+  "name": "Karapınar",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e49"
+  },
+  "name": "Karatay",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4a"
+  },
+  "name": "Kulu",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4b"
+  },
+  "name": "Meram",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4c"
+  },
+  "name": "Sarayönü",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4d"
+  },
+  "name": "Selçuklu",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4e"
+  },
+  "name": "Seydişehir",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e4f"
+  },
+  "name": "Taşkent",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e50"
+  },
+  "name": "Tuzlukçu",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e51"
+  },
+  "name": "Yalıhüyük",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e52"
+  },
+  "name": "Yunak",
+  "city": {
+    "$oid": "61015b44db455b0387385451"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e53"
+  },
+  "name": "Altıntaş",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e54"
+  },
+  "name": "Aslanapa",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e55"
+  },
+  "name": "Çavdarhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e56"
+  },
+  "name": "Domaniç",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e57"
+  },
+  "name": "Dumlupınar",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e58"
+  },
+  "name": "Emet",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e59"
+  },
+  "name": "Gediz",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5a"
+  },
+  "name": "Hisarcık",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5b"
+  },
+  "name": "Kütahya Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5c"
+  },
+  "name": "Pazarlar",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5d"
+  },
+  "name": "Simav",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5e"
+  },
+  "name": "Şaphane",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e5f"
+  },
+  "name": "Tavşanlı",
+  "city": {
+    "$oid": "61015b44db455b0387385452"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e60"
+  },
+  "name": "Akçadağ",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e61"
+  },
+  "name": "Arapgir",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e62"
+  },
+  "name": "Arguvan",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e63"
+  },
+  "name": "Battalgazi",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e64"
+  },
+  "name": "Darende",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e65"
+  },
+  "name": "Doğanşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e66"
+  },
+  "name": "Doğanyol",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e67"
+  },
+  "name": "Hekimhan",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e68"
+  },
+  "name": "Kale / Malatya",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e69"
+  },
+  "name": "Kuluncak",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6a"
+  },
+  "name": "Malatya Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6b"
+  },
+  "name": "Pütürge",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6c"
+  },
+  "name": "Yazıhan",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6d"
+  },
+  "name": "Yeşilyurt / Malatya",
+  "city": {
+    "$oid": "61015b44db455b0387385453"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6e"
+  },
+  "name": "Ahmetli",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e6f"
+  },
+  "name": "Akhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e70"
+  },
+  "name": "Alaşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e71"
+  },
+  "name": "Demirci",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e72"
+  },
+  "name": "Gölmarmara",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e73"
+  },
+  "name": "Gördes",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e74"
+  },
+  "name": "Kırkağaç",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e75"
+  },
+  "name": "Köprübaşı / Manisa",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e76"
+  },
+  "name": "Kula",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e77"
+  },
+  "name": "Manisa Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e78"
+  },
+  "name": "Salihli",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e79"
+  },
+  "name": "Sarıgöl",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7a"
+  },
+  "name": "Saruhanlı",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7b"
+  },
+  "name": "Selendi",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7c"
+  },
+  "name": "Soma",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7d"
+  },
+  "name": "Turgutlu",
+  "city": {
+    "$oid": "61015b44db455b0387385454"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7e"
+  },
+  "name": "Afşin",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e7f"
+  },
+  "name": "Andırın",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e80"
+  },
+  "name": "Çağlıyancerit",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e81"
+  },
+  "name": "Ekinözü",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e82"
+  },
+  "name": "Elbistan",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e83"
+  },
+  "name": "Göksun",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e84"
+  },
+  "name": "Kahramanmaraş Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e85"
+  },
+  "name": "Nurhak",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e86"
+  },
+  "name": "Pazarcık",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e87"
+  },
+  "name": "Türkoğlu",
+  "city": {
+    "$oid": "61015b44db455b0387385455"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e88"
+  },
+  "name": "Dargeçit",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e89"
+  },
+  "name": "Derik",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8a"
+  },
+  "name": "Kızıltepe",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8b"
+  },
+  "name": "Mardin Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8c"
+  },
+  "name": "Mazıdağı",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8d"
+  },
+  "name": "Midyat",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8e"
+  },
+  "name": "Nusaybin",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e8f"
+  },
+  "name": "Ömerli",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e90"
+  },
+  "name": "Savur",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e91"
+  },
+  "name": "Yeşilli",
+  "city": {
+    "$oid": "61015b44db455b0387385456"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e92"
+  },
+  "name": "Bodrum",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e93"
+  },
+  "name": "Dalaman",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e94"
+  },
+  "name": "Datça",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e95"
+  },
+  "name": "Fethiye",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e96"
+  },
+  "name": "Kavaklıdere",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e97"
+  },
+  "name": "Köyceğiz",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e98"
+  },
+  "name": "Marmaris",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e99"
+  },
+  "name": "Milas",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9a"
+  },
+  "name": "Muğla Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9b"
+  },
+  "name": "Ortaca",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9c"
+  },
+  "name": "Ula",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9d"
+  },
+  "name": "Yatağan",
+  "city": {
+    "$oid": "61015b44db455b0387385457"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9e"
+  },
+  "name": "Bulanık",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385e9f"
+  },
+  "name": "Hasköy",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea0"
+  },
+  "name": "Korkut",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea1"
+  },
+  "name": "Malazgirt",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea2"
+  },
+  "name": "Muş Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea3"
+  },
+  "name": "Varto",
+  "city": {
+    "$oid": "61015b44db455b0387385458"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea4"
+  },
+  "name": "Acıgöl",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea5"
+  },
+  "name": "Avanos",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea6"
+  },
+  "name": "Derinkuyu",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea7"
+  },
+  "name": "Gülşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea8"
+  },
+  "name": "Hacıbektaş",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ea9"
+  },
+  "name": "Kozaklı",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eaa"
+  },
+  "name": "Nevşehir Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eab"
+  },
+  "name": "Ürgüp",
+  "city": {
+    "$oid": "61015b44db455b0387385459"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eac"
+  },
+  "name": "Altunhisar",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ead"
+  },
+  "name": "Bor",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eae"
+  },
+  "name": "Çamardı",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eaf"
+  },
+  "name": "Çiftlik",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb0"
+  },
+  "name": "Niğde Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb1"
+  },
+  "name": "Ulukışla",
+  "city": {
+    "$oid": "61015b44db455b038738545a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb2"
+  },
+  "name": "Akkuş",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb3"
+  },
+  "name": "Aybastı",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb4"
+  },
+  "name": "Çamaş",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb5"
+  },
+  "name": "Çatalpınar",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb6"
+  },
+  "name": "Çaybaşı",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb7"
+  },
+  "name": "Fatsa",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb8"
+  },
+  "name": "Gölköy",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eb9"
+  },
+  "name": "Gülyalı",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eba"
+  },
+  "name": "Gürgentepe",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ebb"
+  },
+  "name": "İkizce",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ebc"
+  },
+  "name": "Kabadüz",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ebd"
+  },
+  "name": "Kabataş",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ebe"
+  },
+  "name": "Korgan",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ebf"
+  },
+  "name": "Kumru",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec0"
+  },
+  "name": "Mesudiye",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec1"
+  },
+  "name": "Ordu Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec2"
+  },
+  "name": "Perşembe",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec3"
+  },
+  "name": "Ulubey / Ordu",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec4"
+  },
+  "name": "Ünye",
+  "city": {
+    "$oid": "61015b44db455b038738545b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec5"
+  },
+  "name": "Ardeşen",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec6"
+  },
+  "name": "Çamlıhemşin",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec7"
+  },
+  "name": "Çayeli",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec8"
+  },
+  "name": "Derepazarı",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ec9"
+  },
+  "name": "Fındıklı",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eca"
+  },
+  "name": "Güneysu",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ecb"
+  },
+  "name": "Hemşin",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ecc"
+  },
+  "name": "İkizdere",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ecd"
+  },
+  "name": "İyidere",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ece"
+  },
+  "name": "Kalkandere",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ecf"
+  },
+  "name": "Pazar / Rize",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed0"
+  },
+  "name": "Rize Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738545c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed1"
+  },
+  "name": "Adapazarı",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed2"
+  },
+  "name": "Akyazı",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed3"
+  },
+  "name": "Arifiye",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed4"
+  },
+  "name": "Erenler",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed5"
+  },
+  "name": "Ferizli",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed6"
+  },
+  "name": "Geyve",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed7"
+  },
+  "name": "Hendek",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed8"
+  },
+  "name": "Karapürçek",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ed9"
+  },
+  "name": "Karasu",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eda"
+  },
+  "name": "Kaynarca",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385edb"
+  },
+  "name": "Kocaali",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385edc"
+  },
+  "name": "Pamukova",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385edd"
+  },
+  "name": "Sapanca",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ede"
+  },
+  "name": "Serdivan",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385edf"
+  },
+  "name": "Söğütlü",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee0"
+  },
+  "name": "Taraklı",
+  "city": {
+    "$oid": "61015b44db455b038738545d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee1"
+  },
+  "name": "Alaçam",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee2"
+  },
+  "name": "Asarcık",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee3"
+  },
+  "name": "Atakum",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee4"
+  },
+  "name": "Ayvacık / Samsun",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee5"
+  },
+  "name": "Bafra",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee6"
+  },
+  "name": "Canik",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee7"
+  },
+  "name": "Çarşamba",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee8"
+  },
+  "name": "Havza",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ee9"
+  },
+  "name": "İlkadım",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eea"
+  },
+  "name": "Kavak",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eeb"
+  },
+  "name": "Ladik",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eec"
+  },
+  "name": "Ondokuzmayıs",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eed"
+  },
+  "name": "Salıpazarı",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eee"
+  },
+  "name": "Tekkeköy",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eef"
+  },
+  "name": "Terme",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef0"
+  },
+  "name": "Vezirköprü",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef1"
+  },
+  "name": "Yakakent",
+  "city": {
+    "$oid": "61015b44db455b038738545e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef2"
+  },
+  "name": "Aydınlar",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef3"
+  },
+  "name": "Baykan",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef4"
+  },
+  "name": "Eruh",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef5"
+  },
+  "name": "Kurtalan",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef6"
+  },
+  "name": "Pervari",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef7"
+  },
+  "name": "Siirt Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef8"
+  },
+  "name": "Şirvan",
+  "city": {
+    "$oid": "61015b44db455b038738545f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385ef9"
+  },
+  "name": "Ayancık",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385efa"
+  },
+  "name": "Boyabat",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385efb"
+  },
+  "name": "Dikmen",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385efc"
+  },
+  "name": "Durağan",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385efd"
+  },
+  "name": "Erfelek",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385efe"
+  },
+  "name": "Gerze",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385eff"
+  },
+  "name": "Saraydüzü",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f00"
+  },
+  "name": "Sinop Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f01"
+  },
+  "name": "Türkeli",
+  "city": {
+    "$oid": "61015b44db455b0387385460"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f02"
+  },
+  "name": "Akıncılar",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f03"
+  },
+  "name": "Altınyayla / Sivas",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f04"
+  },
+  "name": "Divriği",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f05"
+  },
+  "name": "Doğanşar",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f06"
+  },
+  "name": "Gemerek",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f07"
+  },
+  "name": "Gölova",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f08"
+  },
+  "name": "Gürün",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f09"
+  },
+  "name": "Hafik",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0a"
+  },
+  "name": "İmranlı",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0b"
+  },
+  "name": "Kangal",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0c"
+  },
+  "name": "Koyulhisar",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0d"
+  },
+  "name": "Sivas Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0e"
+  },
+  "name": "Suşehri",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f0f"
+  },
+  "name": "Şarkışla",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f10"
+  },
+  "name": "Ulaş",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f11"
+  },
+  "name": "Yıldızeli",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f12"
+  },
+  "name": "Zara",
+  "city": {
+    "$oid": "61015b44db455b0387385461"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f13"
+  },
+  "name": "Çerkezköy",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f14"
+  },
+  "name": "Çorlu",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f15"
+  },
+  "name": "Hayrabolu",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f16"
+  },
+  "name": "Malkara",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f17"
+  },
+  "name": "Marmaraereğlisi",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f18"
+  },
+  "name": "Muratlı",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f19"
+  },
+  "name": "Saray",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1a"
+  },
+  "name": "Şarköy",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1b"
+  },
+  "name": "Tekirdağ Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1c"
+  },
+  "name": "Almus",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1d"
+  },
+  "name": "Artova",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1e"
+  },
+  "name": "Başçiftlik",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f1f"
+  },
+  "name": "Erbaa",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f20"
+  },
+  "name": "Niksar",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f21"
+  },
+  "name": "Pazar / Tokat",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f22"
+  },
+  "name": "Reşadiye",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f23"
+  },
+  "name": "Sulusaray",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f24"
+  },
+  "name": "Tokat Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f25"
+  },
+  "name": "Turhal",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f26"
+  },
+  "name": "Yeşilyurt / Tokat",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f27"
+  },
+  "name": "Zile",
+  "city": {
+    "$oid": "61015b44db455b0387385463"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f28"
+  },
+  "name": "Akçaabat",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f29"
+  },
+  "name": "Araklı",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2a"
+  },
+  "name": "Arsin",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2b"
+  },
+  "name": "Beşikdüzü",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2c"
+  },
+  "name": "Çarşıbaşı",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2d"
+  },
+  "name": "Çaykara",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2e"
+  },
+  "name": "Dernekpazarı",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f2f"
+  },
+  "name": "Düzköy",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f30"
+  },
+  "name": "Hayrat",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f31"
+  },
+  "name": "Köprübaşı / Trabzon",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f32"
+  },
+  "name": "Maçka",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f33"
+  },
+  "name": "Of",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f34"
+  },
+  "name": "Sürmene",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f35"
+  },
+  "name": "Şalpazarı",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f36"
+  },
+  "name": "Tonya",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f37"
+  },
+  "name": "Trabzon Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f38"
+  },
+  "name": "Vakfıkebir",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f39"
+  },
+  "name": "Yomra",
+  "city": {
+    "$oid": "61015b44db455b0387385464"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3a"
+  },
+  "name": "Çemişgezek",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3b"
+  },
+  "name": "Hozat",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3c"
+  },
+  "name": "Mazgirt",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3d"
+  },
+  "name": "Nazımiye",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3e"
+  },
+  "name": "Ovacık / Tunceli",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f3f"
+  },
+  "name": "Pertek",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f40"
+  },
+  "name": "Pülümür",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f41"
+  },
+  "name": "Tunceli Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385465"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f42"
+  },
+  "name": "Akçakale",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f43"
+  },
+  "name": "Birecik",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f44"
+  },
+  "name": "Bozova",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f45"
+  },
+  "name": "Ceylanpınar",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f46"
+  },
+  "name": "Halfeti",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f47"
+  },
+  "name": "Harran",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f48"
+  },
+  "name": "Hilvan",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f49"
+  },
+  "name": "Siverek",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4a"
+  },
+  "name": "Suruç",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4b"
+  },
+  "name": "Şanlıurfa Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4c"
+  },
+  "name": "Viranşehir",
+  "city": {
+    "$oid": "61015b44db455b0387385466"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4d"
+  },
+  "name": "Banaz",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4e"
+  },
+  "name": "Eşme",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f4f"
+  },
+  "name": "Karahallı",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f50"
+  },
+  "name": "Sivaslı",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f51"
+  },
+  "name": "Ulubey / Uşak",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f52"
+  },
+  "name": "Uşak Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385467"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f53"
+  },
+  "name": "Bahçesaray",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f54"
+  },
+  "name": "Başkale",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f55"
+  },
+  "name": "Çaldıran",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f56"
+  },
+  "name": "Çatak",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f57"
+  },
+  "name": "Edremit / Van",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f58"
+  },
+  "name": "Erciş",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f59"
+  },
+  "name": "Gevaş",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5a"
+  },
+  "name": "Gürpınar",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5b"
+  },
+  "name": "Muradiye",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5c"
+  },
+  "name": "Özalp",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5d"
+  },
+  "name": "Saray / Van",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5e"
+  },
+  "name": "Van Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385468"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f5f"
+  },
+  "name": "Akdağmadeni",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f60"
+  },
+  "name": "Aydıncık / Yozgat",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f61"
+  },
+  "name": "Boğazlıyan",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f62"
+  },
+  "name": "Çandır",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f63"
+  },
+  "name": "Çayıralan",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f64"
+  },
+  "name": "Çekerek",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f65"
+  },
+  "name": "Kadışehri",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f66"
+  },
+  "name": "Saraykent",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f67"
+  },
+  "name": "Sarıkaya",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f68"
+  },
+  "name": "Sorgun",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f69"
+  },
+  "name": "Şefaatli",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6a"
+  },
+  "name": "Yenifakılı",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6b"
+  },
+  "name": "Yerköy",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6c"
+  },
+  "name": "Yozgat Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385469"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6d"
+  },
+  "name": "Alaplı",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6e"
+  },
+  "name": "Çaycuma",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f6f"
+  },
+  "name": "Devrek",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f70"
+  },
+  "name": "Ereğli / Zonguldak",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f71"
+  },
+  "name": "Gökçebey",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f72"
+  },
+  "name": "Zonguldak Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546a"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f73"
+  },
+  "name": "Ağaçören",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f74"
+  },
+  "name": "Aksaray Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f75"
+  },
+  "name": "Eskil",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f76"
+  },
+  "name": "Gülağaç",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f77"
+  },
+  "name": "Güzelyurt",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f78"
+  },
+  "name": "Ortaköy",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f79"
+  },
+  "name": "Sarıyahşi",
+  "city": {
+    "$oid": "61015b44db455b038738546b"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7a"
+  },
+  "name": "Aydıntepe",
+  "city": {
+    "$oid": "61015b44db455b038738546c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7b"
+  },
+  "name": "Bayburt Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7c"
+  },
+  "name": "Demirözü",
+  "city": {
+    "$oid": "61015b44db455b038738546c"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7d"
+  },
+  "name": "Ayrancı",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7e"
+  },
+  "name": "Başyayla",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f7f"
+  },
+  "name": "Ermenek",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f80"
+  },
+  "name": "Karaman Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f81"
+  },
+  "name": "Kazımkarabekir",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f82"
+  },
+  "name": "Sarıveliler",
+  "city": {
+    "$oid": "61015b44db455b038738546d"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f83"
+  },
+  "name": "Bahşili",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f84"
+  },
+  "name": "Balışeyh",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f85"
+  },
+  "name": "Çelebi",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f86"
+  },
+  "name": "Delice",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f87"
+  },
+  "name": "Karakeçili",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f88"
+  },
+  "name": "Keskin",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f89"
+  },
+  "name": "Kırıkkale Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8a"
+  },
+  "name": "Sulakyurt",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8b"
+  },
+  "name": "Yahşihan",
+  "city": {
+    "$oid": "61015b44db455b038738546e"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8c"
+  },
+  "name": "Batman Merkez",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8d"
+  },
+  "name": "Beşiri",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8e"
+  },
+  "name": "Gercüş",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f8f"
+  },
+  "name": "Hasankeyf",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f90"
+  },
+  "name": "Kozluk",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f91"
+  },
+  "name": "Sason",
+  "city": {
+    "$oid": "61015b44db455b038738546f"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f92"
+  },
+  "name": "Beytüşşebap",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f93"
+  },
+  "name": "Cizre",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f94"
+  },
+  "name": "Güçlükonak",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f95"
+  },
+  "name": "İdil",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f96"
+  },
+  "name": "Silopi",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f97"
+  },
+  "name": "Şırnak Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f98"
+  },
+  "name": "Uludere",
+  "city": {
+    "$oid": "61015b44db455b0387385470"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f99"
+  },
+  "name": "Amasra",
+  "city": {
+    "$oid": "61015b44db455b0387385471"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9a"
+  },
+  "name": "Bartın Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385471"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9b"
+  },
+  "name": "Kurucaşile",
+  "city": {
+    "$oid": "61015b44db455b0387385471"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9c"
+  },
+  "name": "Ulus",
+  "city": {
+    "$oid": "61015b44db455b0387385471"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9d"
+  },
+  "name": "Ardahan Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9e"
+  },
+  "name": "Çıldır",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385f9f"
+  },
+  "name": "Damal",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa0"
+  },
+  "name": "Göle",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa1"
+  },
+  "name": "Hanak",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa2"
+  },
+  "name": "Posof",
+  "city": {
+    "$oid": "61015b44db455b0387385472"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa3"
+  },
+  "name": "Aralık",
+  "city": {
+    "$oid": "61015b44db455b0387385473"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa4"
+  },
+  "name": "Iğdır Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385473"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa5"
+  },
+  "name": "Karakoyunlu",
+  "city": {
+    "$oid": "61015b44db455b0387385473"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa6"
+  },
+  "name": "Tuzluca",
+  "city": {
+    "$oid": "61015b44db455b0387385473"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa7"
+  },
+  "name": "Altınova",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa8"
+  },
+  "name": "Armutlu",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fa9"
+  },
+  "name": "Çınarcık",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385faa"
+  },
+  "name": "Çiftlikköy",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fab"
+  },
+  "name": "Termal",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fac"
+  },
+  "name": "Yalova Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385474"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fad"
+  },
+  "name": "Eflani",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fae"
+  },
+  "name": "Eskipazar",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385faf"
+  },
+  "name": "Karabük Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb0"
+  },
+  "name": "Ovacık / Karabük",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb1"
+  },
+  "name": "Safranbolu",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb2"
+  },
+  "name": "Yenice / Karabük",
+  "city": {
+    "$oid": "61015b44db455b0387385475"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb3"
+  },
+  "name": "Elbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385476"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb4"
+  },
+  "name": "Kilis Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385476"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb5"
+  },
+  "name": "Musabeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385476"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb6"
+  },
+  "name": "Polateli",
+  "city": {
+    "$oid": "61015b44db455b0387385476"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb7"
+  },
+  "name": "Bahçe",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb8"
+  },
+  "name": "Düziçi",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fb9"
+  },
+  "name": "Hasanbeyli",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fba"
+  },
+  "name": "Kadirli",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fbb"
+  },
+  "name": "Osmaniye Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fbc"
+  },
+  "name": "Sumbas",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fbd"
+  },
+  "name": "Toprakkale",
+  "city": {
+    "$oid": "61015b44db455b0387385477"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fbe"
+  },
+  "name": "Akçakoca",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fbf"
+  },
+  "name": "Cumayeri",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc0"
+  },
+  "name": "Çilimli",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc1"
+  },
+  "name": "Düzce Merkez",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc2"
+  },
+  "name": "Gölyaka",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc3"
+  },
+  "name": "Gümüşova",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc4"
+  },
+  "name": "Kaynaşlı",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc5"
+  },
+  "name": "Yığılca",
+  "city": {
+    "$oid": "61015b44db455b0387385478"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc6"
+  },
+  "name": "Kapaklı",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc7"
+  },
+  "name": "Ergene",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "610160e1db455b0387385fc8"
+  },
+  "name": "Süleymanpaşa",
+  "city": {
+    "$oid": "61015b44db455b0387385462"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97f8"
+  },
+  "name": "Gazimağusa",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97f9"
+  },
+  "name": "Girne",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97fa"
+  },
+  "name": "Güzelyurt",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97fb"
+  },
+  "name": "İskele",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97fc"
+  },
+  "name": "Lefke",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+},{
+  "_id": {
+    "$oid": "612de95c427307df8f4e97fd"
+  },
+  "name": "Lefkoşa",
+  "city": {
+    "$oid": "612de8cf427307df8f4e97f5"
+  },
+  "isActive": true,
+  "isDeleted": false
+}]
